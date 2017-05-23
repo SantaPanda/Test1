@@ -8,5 +8,8 @@
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
   </component>
-  <component name="WebServicesPluginSettings" SelectedPlatform="Apache Axis" />
+  <component name="WebServicesPluginSettings" SelectedPlatform="Apache Axis">
+    <StubPackage>mypackage</StubPackage>
+    <StubUrl>http://localhost:8080/services/HelloWorld?wsdl</StubUrl>
+  </component>
 </application>
